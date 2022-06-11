@@ -1,5 +1,3 @@
-This project analyzes the effect of weather fielsds like sunlight, windspeed, humidity etc, have on a person's mental health status. The project tries to understand if any ocorrelation between the weather and mental health exists and if so, which weather effects give rise to adverse mental health.
-
 <h1>Weather Effects on Mental Health</h1>
 
 <h2>Motivation</h2>
